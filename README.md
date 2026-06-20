@@ -43,10 +43,13 @@ $usuariosValidos = @("Hugo")
 <br>
 Este valor puede modificarse directamente en el código según el entorno de uso.
 <br>
+<br>
+
 ⚠️ Requisitos
 Sistema operativo Windows
 PowerShell 5.1 o superior
 Permisos de administrador
+
 <br>
 <br>
 
