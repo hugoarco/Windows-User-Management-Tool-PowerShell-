@@ -1,5 +1,10 @@
 <h1 align = "center" >Windows User Management Tool (PowerShell)</h1>  
-
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-5.1+-blue?logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/License-MIT-green">
+  <img src="https://img.shields.io/badge/Status-Finished-brightgreen">
+</p>
 Herramienta de administración local para sistemas Windows desarrollada en PowerShell que permite gestionar usuarios del sistema de forma rápida mediante una interfaz de consola interactiva.
 
 Este proyecto está orientado a entornos de aprendizaje y laboratorios de sistemas, simulando tareas reales de administración en equipos Windows.
